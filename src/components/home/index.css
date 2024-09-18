@@ -1,0 +1,28 @@
+.header {
+  background-color: aquamarine;
+  position: sticky;
+  top: 0px;
+  padding: 2px;
+}
+.Heding {
+  text-align: center;
+  font-size: 2rem;
+  color: rgb(228, 21, 21);
+  text-decoration: underline;
+}
+
+.listContainer {
+  list-style-type: none;
+}
+.liContainer {
+  background-color: antiquewhite;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+.listTitle {
+  font-size: 1rem;
+  font-weight: 600;
+  background-color: rgb(194, 185, 175);
+  box-shadow: 1px 1px 10px;
+}
